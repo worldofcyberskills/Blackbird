@@ -8,13 +8,13 @@
 
 ## Disclaimer
 ```
-This or previous program is for Educational purpose ONLY. Do not use it without permission. 
-The usual disclaimer applies, especially the fact that me (P1ngul1n0) is not liable for any 
+This program is for Educational purpose ONLY. Do not use it without permission. 
+The usual disclaimer applies, especially the fact that me (world_of_cyber_skills) is not liable for any 
 damages caused by direct or indirect use of the information or functionality provided by these 
 programs. The author or any Internet provider bears NO responsibility for content or misuse 
 of these programs or any derivatives thereof. By using these programs you accept the fact 
 that any damage (dataloss, system crash, system compromise, etc.) caused by the use of these 
-programs is not P1ngul1n0's responsibility.
+programs is not world_of_cyber_skills's responsibility.
 ```
 <img alt="blackbird-cli" align="center" src="https://raw.githubusercontent.com/p1ngul1n0/src/master/blackbird_printscreen.png">
 <img alt="blackbird-web" align="center" src="https://raw.githubusercontent.com/p1ngul1n0/src/master/blackbird_web.png">
@@ -26,7 +26,7 @@ programs is not P1ngul1n0's responsibility.
 
 #### Clone the repository
 ```shell
-git clone https://github.com/p1ngul1n0/blackbird
+git clone https://github.com/worldofcyberskills/blackbird
 cd blackbird
 ```
 
@@ -269,4 +269,4 @@ If you have any suggestion of a site to be included in the search, make a pull r
 - [ ] Deploy on Cloud
 
 ## Contact
-Feel free to contact me on <a href="https://twitter.com/p1ngul1n0">Twitter</a>
+Feel free to contact me on <a href="https://www.instagram.com/world_of_cyber_skills/</a>
